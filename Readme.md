@@ -11,9 +11,13 @@ búsqueda, y ordenamiento de elementos en listas.
 </p>
 
 ### Estructura del proyecto
-	- Program.cs
-	- Models
-	  - Vault.cs
+	- Infinite Manipulation
+	  - Program.cs
+	  - Models
+	    - Vault.cs
+	- Readme.md
+	- gitignore
+	- gitattributes
 
 ### Requisitos técnicos para correr el proyecto
 
